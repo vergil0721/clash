@@ -624,7 +624,7 @@ IP-CIDR,115.223.32.69/32,no-resolve
 IP-CIDR,117.21.225.237/32,no-resolve
 IP-CIDR,119.147.156.225/32,no-resolve
 IP-CIDR,119.167.135.206/32,no-resolve
-IP-CIDR,119.84,54.229/32,no-resolve
+IP-CIDR,119.84.54.229/32,no-resolve
 IP-CIDR,119.84.52.239/32,no-resolve
 IP-CIDR,119.84.54.231/32,no-resolve
 IP-CIDR,120.238.158.220/32,no-resolve
